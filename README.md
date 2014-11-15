@@ -1,4 +1,1 @@
-GitHubPrac
-==========
-
-Trying to get my hands dirty on this service
+I have created this repository simple to do some practising on this GitHub application...We shal see
